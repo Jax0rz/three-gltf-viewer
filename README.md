@@ -11,7 +11,7 @@ npm run dev
 ```
 访问地址：
 
-`http://localhost:3000/#model=assets/models/danti_ysuo.glb`
+`http://localhost:3000/#model=https://markdown.goexplore.io/shinei010.glb`
 
 * 编译
 
